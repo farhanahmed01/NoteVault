@@ -1,0 +1,22 @@
+{
+  "name": "smartnotebook-backend",
+  "version": "1.0.0",
+  "description": "your notebook on the go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cjs-loader": "^0.1.0",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "mongoose": "^6.10.0",
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
